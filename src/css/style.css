@@ -1,0 +1,31 @@
+.main-div{
+
+min-height: 1000px;
+    /* background-color: aqua; */
+    background-image: linear-gradient(rgb(91, 135, 201),rgb(151, 79, 79));
+padding-top: 50px;
+
+
+}
+
+.search-panel{
+ margin-top: 50px; 
+ margin-bottom: 50px;
+    background-color: azure;
+}
+
+.headder-text{
+
+font-size: 50px;
+
+}
+
+.card-img-top{
+
+   height:190px;
+}
+
+.card{
+
+    height: 480px;
+}
